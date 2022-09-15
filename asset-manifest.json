@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reasctassi/static/css/main.e505b69d.css",
+    "main.js": "/reasctassi/static/js/main.1a24f054.js",
+    "static/js/787.872e2624.chunk.js": "/reasctassi/static/js/787.872e2624.chunk.js",
+    "index.html": "/reasctassi/index.html",
+    "main.e505b69d.css.map": "/reasctassi/static/css/main.e505b69d.css.map",
+    "main.1a24f054.js.map": "/reasctassi/static/js/main.1a24f054.js.map",
+    "787.872e2624.chunk.js.map": "/reasctassi/static/js/787.872e2624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e505b69d.css",
+    "static/js/main.1a24f054.js"
+  ]
+}
